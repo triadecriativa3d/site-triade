@@ -1,0 +1,16 @@
+TRÍADE CRIATIVA 3D — SITE FINAL PARA PUBLICAÇÃO
+
+Arquivos principais:
+- index.html = site
+- produtos.json = cadastro organizado dos produtos
+- assets/img/ = imagens otimizadas para web
+
+Observações implementadas:
+- Cada produto/modelo/cor foi cadastrado separadamente.
+- O chaveiro Garrafinha Tupperware é o único produto com variações de cores.
+- Incluído: "Consultar cores disponíveis".
+- Mickey Baby marcado como "Somente sob encomenda".
+- Porta-copo Bota descrito como 6 em 1, incluindo latinha, latão e long neck.
+- Botões de WhatsApp usam o telefone da Tríade e identificam o produto escolhido.
+
+Atualização: selos de 'Pronta entrega' removidos; apenas itens sob encomenda mantêm aviso. Botões alterados para 'Tenho interesse'.

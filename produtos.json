@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Marca-página Corações",
+    "cat": "marca-paginas",
+    "status": "Pronta entrega",
+    "image": "assets/img/marca-pagina-coracoes.webp",
+    "desc": "Marca-página delicado com detalhes em coração. Uma opção criativa para presentear e acompanhar suas leituras."
+  },
+  {
+    "name": "Porta-batom Floral Vermelho — Alça",
+    "cat": "porta-batom",
+    "status": "Pronta entrega",
+    "image": "assets/img/porta-batom-vermelho-alca.webp",
+    "desc": "Porta-batom compacto com acabamento floral e tampa com alça. Produzido em impressão 3D."
+  },
+  {
+    "name": "Porta-batom Floral Vermelho — Flor",
+    "cat": "porta-batom",
+    "status": "Pronta entrega",
+    "image": "assets/img/porta-batom-vermelho-flor.webp",
+    "desc": "Porta-batom compacto com textura floral e detalhe de flor na tampa."
+  },
+  {
+    "name": "Organizador de Mesa — Azul e Laranja",
+    "cat": "organizadores",
+    "status": "Pronta entrega",
+    "image": "assets/img/organizador-colorido-a.webp",
+    "desc": "Organizador de mesa com compartimentos para canetas e pequenos objetos."
+  },
+  {
+    "name": "Organizador de Mesa — Azul e Amarelo",
+    "cat": "organizadores",
+    "status": "Pronta entrega",
+    "image": "assets/img/organizador-colorido-b.webp",
+    "desc": "Organizador de mesa colorido com compartimentos para manter seus itens sempre à mão."
+  },
+  {
+    "name": "Porta-retrato Pet Coração",
+    "cat": "decoracao",
+    "status": "Pronta entrega",
+    "image": "assets/img/porta-retrato-pet.webp",
+    "desc": "Peça decorativa para destacar a foto do seu pet em um formato cheio de personalidade."
+  },
+  {
+    "name": "Marca-página Nossa Senhora",
+    "cat": "religiosos",
+    "status": "Pronta entrega",
+    "image": "assets/img/marca-pagina-nossa-senhora.webp",
+    "desc": "Marca-página religioso com detalhe de Nossa Senhora, leve e delicado para acompanhar momentos de leitura e fé."
+  },
+  {
+    "name": "Marca-página Tarde com Propósito",
+    "cat": "marca-paginas",
+    "status": "Pronta entrega",
+    "image": "assets/img/marca-pagina-tarde-proposito.webp",
+    "desc": "Marca-página com a frase “Tarde com Propósito”, ideal para lembrança e presente."
+  },
+  {
+    "name": "Porta-copo Bota 6 em 1",
+    "cat": "utilidades",
+    "status": "Pronta entrega",
+    "image": "assets/img/porta-copo-bota.webp",
+    "desc": "Porta-copo em formato de bota 6 em 1, desenvolvido para atender diferentes formatos, incluindo latinha, latão e long neck."
+  },
+  {
+    "name": "Chaveiro Tupperware — Tigela",
+    "cat": "chaveiros",
+    "status": "Pronta entrega",
+    "image": "assets/img/chaveiro-tupperware-tigela.webp",
+    "desc": "Miniatura em formato de tigela para chaveiro, produzida em impressão 3D."
+  },
+  {
+    "name": "Chaveiro Tupperware — Mini Pote Vermelho",
+    "cat": "chaveiros",
+    "status": "Pronta entrega",
+    "image": "assets/img/chaveiro-tupperware-vermelho.webp",
+    "desc": "Miniatura de pote com tampa para chaveiro, produzida em impressão 3D."
+  },
+  {
+    "name": "Chaveiro Tupperware — Jarra",
+    "cat": "chaveiros",
+    "status": "Pronta entrega",
+    "image": "assets/img/chaveiro-tupperware-jarra.webp",
+    "desc": "Mini chaveiro em formato de jarra, produzido em impressão 3D."
+  },
+  {
+    "name": "Chaveiro Garrafinha Tupperware",
+    "cat": "chaveiros",
+    "status": "Pronta entrega",
+    "image": "assets/img/chaveiro-garrafinha-tupperware.webp",
+    "desc": "Chaveirinho garrafinha disponível em variações de cores. Consultar cores disponíveis."
+  },
+  {
+    "name": "Porta-batom Floral — Rosa Claro",
+    "cat": "porta-batom",
+    "status": "Pronta entrega",
+    "image": "assets/img/porta-batom-rosa-claro.webp",
+    "desc": "Porta-batom floral em rosa claro. Cadastro separado para facilitar a escolha do produto."
+  },
+  {
+    "name": "Porta-batom Floral — Pink",
+    "cat": "porta-batom",
+    "status": "Pronta entrega",
+    "image": "assets/img/porta-batom-pink.webp",
+    "desc": "Porta-batom floral na cor pink, produzido em impressão 3D."
+  },
+  {
+    "name": "Porta-batom Floral — Rosa Bebê",
+    "cat": "porta-batom",
+    "status": "Pronta entrega",
+    "image": "assets/img/porta-batom-rosa-bebe.webp",
+    "desc": "Porta-batom floral em tom rosa bebê, cadastrado individualmente."
+  },
+  {
+    "name": "Pote Organizador Morango",
+    "cat": "organizadores",
+    "status": "Pronta entrega",
+    "image": "assets/img/pote-morango.webp",
+    "desc": "Organizador decorativo em formato de morango com divisórias internas."
+  },
+  {
+    "name": "Enfeite de Quarto Mickey Baby",
+    "cat": "sob-encomenda",
+    "status": "Somente sob encomenda",
+    "image": "assets/img/mickey-baby-enfeite.webp",
+    "desc": "Peça decorativa para quarto infantil. Produção somente sob encomenda."
+  }
+]
